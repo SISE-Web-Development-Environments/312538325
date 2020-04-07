@@ -299,7 +299,7 @@ img.emoji {
 .emoji-picker-container {
     position: relative;
     background-color: white;
-    width: 600px;
+    /* width: 600px; */
     /* height: 214px; */
 }
 
